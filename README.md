@@ -49,5 +49,5 @@ Hypertension and Arthritis are also notable conditions, especially among older p
 
 ![Alt text](images/HEALTHCARE ANALYSIS.pdf)
 
-
+V
 
