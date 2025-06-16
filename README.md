@@ -1,10 +1,14 @@
-# project-on-health
+# Medical Record  Analysis
 This is analysis on health to gain insight and discover trend
 1. Problem Definition:
 ○ Objective: Analyze the organization’s patient database to discover trends and
 insights. The company is interested in identifying common health issues,
 treatment outcomes, and geographical distribution of diseases to better tailor its
 services.
+
+OJECTIVES
+
+-
 
 
 REPORT ON HEALTH DATA
