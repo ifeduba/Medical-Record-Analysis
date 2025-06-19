@@ -1,56 +1,71 @@
 # Medical Record  Analysis
-This is analysis on health to gain insight and discover trend
-1. Problem Definition:
-○ Objective: Analyze the organization’s patient database to discover trends and
-insights. The company is interested in identifying common health issues,
-treatment outcomes, and geographical distribution of diseases to better tailor its
-services.
 
-OJECTIVES
+# Introduction
 
--
+This project focuses on analyzing key aspects of a health care dataset—including patient demographics, medical conditions, medications, and hospital visits—to uncover patterns, assess performance, and support evidence-based insights.
+By applying data analysis techniques such as aggregation, visualization, and statistical modeling, this analysis aims to identify the most common health issues, monitor treatment trends, evaluate patient outcomes, and highlight areas for operational improvement. The ultimate goal is to leverage data to support better patient care, resource allocation, and strategic planning within health care systems.
 
 
-REPORT ON HEALTH DATA
+## Key metrics
+- What are the most common diagnoses based on region?
+-  What are the success rates of the various treatment plans?
+-  What are the demographics (age, gender) of patients with specific health condion?
+-   Patient demographics distribution across different health conditions.
+- Treatment success rates by diagnosis.
+- Geographical distribution of health conditions.
+  
 
 
-- I downloaded my health dataset from kaggle website. The dataset comprises of patients  information ,their gender, age, health insurance , medical condition, medication etc.
-I started by cleaning my datasets, I arranged my dataset to fit into rows , then formatted into table. I checked but blank rows but none was found . I also checked for duplicates then removed the duplicates found. I standardized my data format by converting date format to a single consistency format. Convert numerical data to a consistent unit of measurement.
 
-- I tried identifying outliers by using boxplot visual method to detect extreme values  that didn’t fit into  the data distribution but none was found. I group similar category into a single one then categorical variable into a standard format. I ensure that each column in the dataset is the correct data type that is the numerical, category and date/time. By applying logical constraints then check-cross column dependencies and enforce data consistency. I address the irrelevant features and dropping them. 
+## Skills  and concept demostrated
+The following excel and tableau features were incoporated:
+- Data gathering
+- Data cleaning and transformation
+- Data visualization
+- Quick measures and dashboard automation.
 
+  ## Visualization
+  visualization and analysis.
 
-- After my data cleaning processes I imported my dataset into tableau public for analysis and visualization  during the analysis I discovered that male gender have more of the health condition than female gender  though the region wasn’t given . there are also high rate  arthritis in female than in male.
+  ![IMG_4482 (2)](https://github.com/user-attachments/assets/db593d9b-fb6d-4ebf-b524-a743433559e5)
 
-
+  ### The Analysis
+ - The most common health conditions listed are Obesity, Asthma, Cancer, and Diabetes. Obesity appears to be a particularly common condition across the patients in this dataset.
+Hypertension and Arthritis are also notable conditions, especially among older patients
+ 
+- The percentage of all health condition are all within the same range of 16.5% to 16.7%. and there is no geographical distribution in the dataset .
+- the analysis  shows that male gender have more of the health condition than female gender  though the region wasn’t given . there are also high rate  arthritis in female than in male.
 - The percentage of all health condition are all within the same range of 16.5% to 16.7%. and there is no geographical distribution in the dataset . during the analysis I disfigured that Arthritis patients that was given Lipitor has the lowest abnormal test result  than other medications like paracetemol, aspirin, ibuprofen and penicillin.
-
 - In terms of asthmatic patients those patients given aspirin has the lowest abnormal result compare to those given other medications. Which shows the aspirin works more on asthmatic patients than other medications.  Also in cancer patients , patients given aspirin and penicillin has lower abnormal result compare to others. Diabetes patients respond more Lipitor .
 
-
-#The insights are:
-
-- The dataset contains both male and female patients, with a slight skew toward females (approximately 60% of the records).
+  ### Insight
+   The dataset contains both male and female patients, with a slight skew toward females (approximately 60% of the records).
 Patient ages range from 20 to 82, indicating a broad spectrum of age groups. A majority of the patients seem to be older adults (over 50 years).
 
-- The most common health conditions listed are Obesity, Asthma, Cancer, and Diabetes. Obesity appears to be a particularly common condition across the patients in this dataset.
-Hypertension and Arthritis are also notable conditions, especially among older patients.
-
-
-- Common medications include Paracetamol, Aspirin, Ibuprofen, and Lipitor.
-
-- •	Paracetamol and Ibuprofen are most frequently prescribed, often for conditions like pain relief, inflammation, or fever.
-•	Lipitor (used for managing cholesterol) appears multiple times, especially among patients with conditions like hypertension and diabetes.
-
-
-- The Normal, Abnormal, and Inconclusive outcomes show varying results.
-
-- •	Normal outcomes tend to be common for conditions like asthma or for patients taking medications like Ibuprofen or Paracetamol.
-•	Abnormal outcomes are more common for patients with conditions like cancer, obesity, or diabetes, indicating that these patients might require more specialized or intensive care.
-•	Inconclusive results often appear alongside medications like Paracetamol, suggesting some treatments might not yield clear results or outcomes.
+## Conclusion and Recommendation
+- Promote Gender-Specific Healthcare Interventions
+Since male patients exhibit a higher frequency of general health conditions, and females show higher rates of arthritis, healthcare providers should design gender-sensitive programs. For example, arthritis awareness and preventive strategies can be targeted specifically at female patients, while general screening and health education can be intensified for male patients.
+- Optimize Medication Prescription Practices
+The analysis revealed that Lipitor was most effective for arthritis and diabetes, while aspirin showed better results in asthma and cancer cases. Medical practitioners should re-evaluate treatment protocols to consider these findings when prescribing medications. However, these insights should also be supported by clinical trials or further investigation before being widely implemented.
+- Focus on Older Adult Health
+With the majority of patients aged 50 and above, healthcare planning should prioritize elderly care. This includes increasing access to chronic disease screening, medication management programs, and regular health monitoring for this age group.
+- Enhance Data Collection and Management Systems
+To strengthen future analyses, healthcare institutions should maintain consistent and complete electronic health records (EHRs) with standardized data types, units, and formats. Regular audits and data validation processes should be enforced to ensure high-quality datasets.
+- Encourage Further Research into Drug Efficacy
+The correlation between specific medications and lower abnormal results suggests a need for deeper clinical research into these drugs' performance across different conditions. Healthcare organizations should support studies that explore why certain medications perform better in certain demographics.
 
 
 
 
 
-![IMG_4482 (2)](https://github.com/user-attachments/assets/ef21a0b2-4342-4fcc-8b90-3383659d2fb4)
+
+
+
+  
+
+
+
+
+
+
+
