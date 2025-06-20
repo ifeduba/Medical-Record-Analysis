@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project focuses on analyzing key aspects of a health care dataset—including patient demographics, medical conditions, medications, and hospital visits—to uncover patterns, assess performance, and support evidence-based insights.
+This project focuses on analyzing key aspects of a health care dataset, including patient demographics, medical conditions, medications, and hospital visits to uncover patterns, assess performance, and support evidence based insights.
 By applying data analysis techniques such as aggregation, visualization, and statistical modeling, this analysis aims to identify the most common health issues, monitor treatment trends, evaluate patient outcomes, and highlight areas for operational improvement. The ultimate goal is to leverage data to support better patient care, resource allocation, and strategic planning within health care systems.
 
 
@@ -50,7 +50,7 @@ The analysis revealed that Lipitor was most effective for arthritis and diabetes
 - Focus on Older Adult Health
 With the majority of patients aged 50 and above, healthcare planning should prioritize elderly care. This includes increasing access to chronic disease screening, medication management programs, and regular health monitoring for this age group.
 - Enhance Data Collection and Management Systems
-To strengthen future analyses, healthcare institutions should maintain consistent and complete electronic health records (EHRs) with standardized data types, units, and formats. Regular audits and data validation processes should be enforced to ensure high-quality datasets.
+To strengthen future analyses, healthcare institutions should maintain consistent and complete electronic health records (EHRs) with standardized data types, units, and formats. Regular audits and data validation processes should be enforced to ensure highquality datasets.
 - Encourage Further Research into Drug Efficacy
 The correlation between specific medications and lower abnormal results suggests a need for deeper clinical research into these drugs' performance across different conditions. Healthcare organizations should support studies that explore why certain medications perform better in certain demographics.
 
