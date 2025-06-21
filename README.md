@@ -55,10 +55,10 @@ To strengthen future analyses, healthcare institutions should maintain consisten
 The correlation between specific medications and lower abnormal results suggests a need for deeper clinical research into these drugs' performance across different conditions. Healthcare organizations should support studies that explore why certain medications perform better in certain demographics.
 
 ## Connect with me on socials
-instagram https://accountscenter.instagram.com/profiles/17841452384478356/
+[instagram](https://accountscenter.instagram.com/profiles/17841452384478356/)
 
-linkedin www.linkedin.com/in/
-chinenye-ifeduba-56b9281b0
+[linkedin](www.linkedin.com/in/
+chinenye-ifeduba-56b9281b0)
 
 
 
