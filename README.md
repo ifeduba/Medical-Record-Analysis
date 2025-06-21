@@ -57,8 +57,8 @@ The correlation between specific medications and lower abnormal results suggests
 ## Connect with me on socials
 [instagram](https://accountscenter.instagram.com/profiles/17841452384478356/)
 
-[linkedin](www.linkedin.com/in/
-chinenye-ifeduba-56b9281b0)
+[linkedin](www.linkedin.com/in/)
+
 
 
 
