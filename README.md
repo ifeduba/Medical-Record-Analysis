@@ -1,3 +1,5 @@
+<img width="820" height="673" alt="freepik__the-style-is-candid-image-photography-with-natural__76455" src="https://github.com/user-attachments/assets/96f4a337-0ad6-48c5-8168-fa662455b4b8" />
+
 # Medical Record  Analysis
 
 # Introduction
